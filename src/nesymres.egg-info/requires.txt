@@ -1,0 +1,13 @@
+click
+dataclass_dict_convert
+h5py
+hydra-core==1.0.0
+jsons
+numexpr
+numpy
+ordered_set
+pandas
+scipy
+sympy
+tqdm
+wandb

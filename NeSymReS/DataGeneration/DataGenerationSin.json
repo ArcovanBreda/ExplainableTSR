@@ -1,0 +1,13 @@
+{
+    "max_len": 7,
+    "operators": "add:10,mul:10,sub:5,div:5,sqrt:4,ln:4,exp:4,sin:30",
+    "max_ops": 3,
+    "rewrite_functions": "",
+    "variables": [
+        "x_1",
+        "x_2",
+        "x_3"
+    ],
+    "eos_index": 1,
+    "pad_index": 0
+}
